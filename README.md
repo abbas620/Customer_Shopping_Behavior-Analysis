@@ -1,21 +1,41 @@
 # Customer_Shopping_Behavior-Analysis
 Data analytics project shocasing customer behavior analysis
 customer-behavior-analysis/
+
+
 │
 ├── data/
-│   └── customer_behavior.csv          # Raw dataset
+
+
+│                └── customer_behavior.csv          # Raw dataset
+
+
 │
 ├── python/
-│   └── eda_cleaning.ipynb             # Data cleaning and EDA notebook
+
+
+│                └── eda_cleaning.ipynb             # Data cleaning and EDA notebook
+
+
 │
 ├── sql/
-│   └── business_queries.sql           # PostgreSQL analysis queries
+
+
+│                 └── business_queries.sql           # PostgreSQL analysis queries
+
+
 │
 ├── dashboard/
-│   └── customer_behavior.pbix         # Power BI dashboard file
+
+
+│               └── customer_behavior.pbix         # Power BI dashboard file
+
+
 │
 ├── report/
-│   └── project_report.pdf             # Formal project report
+
+
+│               └── project_report.pdf             # Formal project report
 
 Overview
 This is a complete end-to-end data analytics project that analyzes retail customer shopping behavior across 3,900 customers and 19 attributes. The project covers the full analytics workflow — from raw data cleaning in Python, to advanced SQL querying in PostgreSQL, to building an interactive Power BI dashboard, and finally to generating a formal stakeholder report and presentation. The goal was to uncover meaningful patterns in customer demographics, purchase habits, subscription behavior, and product preferences that can drive smarter business decisions in retail.
