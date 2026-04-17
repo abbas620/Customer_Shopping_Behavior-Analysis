@@ -70,4 +70,5 @@ This project used Python with the Pandas library for data loading, cleaning, and
 Skills Demonstrated
 This project demonstrates end-to-end data analytics capability including data cleaning and feature engineering in Python, exploratory data analysis and statistical summarization, advanced SQL querying for business intelligence, data modeling and DAX measure creation in Power BI, interactive dashboard design with cross-filtering and slicers, demographic and behavioral customer segmentation, business insight generation and stakeholder communication, and AI-assisted presentation design.
 
+This is how Dashboard look like(https://github.com/abbas620/Customer_Shopping_Behavior-Analysis/blob/main/Customer%20Shopping%20Behavior.png)
 
